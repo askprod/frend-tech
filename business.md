@@ -8,7 +8,7 @@ Keep this file concise. Change it when product behavior, workflows, or business 
 
 - No user-facing product workflow is implemented yet.
 - No business roles are implemented yet.
-- No domain-specific product constraints are implemented yet.
+- The app can call X API services to snapshot tracked account profile metrics and recent post metrics, but no persisted tracking workflow exists yet.
 
 ## Product Rules
 
